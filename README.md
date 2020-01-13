@@ -1,4 +1,4 @@
-#Maze Pathfinder Bot
+# Maze Pathfinder Bot
 
 Programmed in Python. Gui using Tkinter.
 
